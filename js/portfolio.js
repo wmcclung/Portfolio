@@ -57,11 +57,11 @@ var cardlist = [
     },
 
 
-    //{
+    /*{
         image: 'images/portfolio/img3.jpg',
         title: 'Bulls Beats Battlestar Galatica.com',
         url: 'https://bullsbeatsbattlestargalactica.com/',
-    }
+    }*/
    
     
 ];
