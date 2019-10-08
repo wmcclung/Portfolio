@@ -54,14 +54,10 @@ var cardlist = [
         image: 'images/portfolio/skateboard-professor-meme-final.jpg',
         title: 'Mongo DB - r/skateboarding Scraper',
         url: 'https://github.com/wmcclung/MongoScraper',
-    },
+    }
 
 
-    /*{
-        image: 'images/portfolio/img3.jpg',
-        title: 'Bulls Beats Battlestar Galatica.com',
-        url: 'https://bullsbeatsbattlestargalactica.com/',
-    }*/
+   
    
     
 ];
